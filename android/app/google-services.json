@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949586838432",
+    "firebase_url": "https://kakalikdb.firebaseio.com",
+    "project_id": "kakalikdb",
+    "storage_bucket": "kakalikdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949586838432:android:a881309727098b22fadac5",
+        "android_client_info": {
+          "package_name": "com.vetsoftware.kakalik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949586838432-a38pgvtlh0n4fr5ljlakkt741f56gfre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vetsoftware.kakalik",
+            "certificate_hash": "8ae400cbf99fc82362dc52a5c848f7334505b0bd"
+          }
+        },
+        {
+          "client_id": "949586838432-2e8e7cag72a5egcl4ppnacl3revffs1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDZt1cc07xcuhiL63jWTykjAGB6VgA4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949586838432-2e8e7cag72a5egcl4ppnacl3revffs1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
