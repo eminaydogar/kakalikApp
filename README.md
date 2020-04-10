@@ -1,6 +1,6 @@
 # kakalik
 
-Kaka yaparken bilgilendiren uygulama 
+https://play.google.com/store/apps/details?id=com.vetsoftware.kakalik 
 
 ## Getting Started
 
